@@ -6,5 +6,5 @@ A vault system for storing and retrieving encrypted files, with two components:
 
 # Contributors:
 
-[Daniel Miranda] (https://github.com/RhEzZuS)
-[Ana Luísa] (https://github.com/Analucar)
+[Daniel Miranda](https://github.com/RhEzZuS)
+[Ana Luísa](https://github.com/Analucar)
