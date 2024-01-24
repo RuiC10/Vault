@@ -1,9 +1,10 @@
 # Vault
 
-A vault system for storing and retrieving encrypted files. 
-The communication between the client and server is done through a secure channel.
+A vault system for storing and retrieving encrypted files, with two components:
+- A client application, which communicates with the server via a secure channel
+- A multithreaded server capable of attending multiple requests 
 
 # Contributors:
 
-[Daniel Miranda] ()
-[Ana Luísa] ()
+[Daniel Miranda] (https://github.com/RhEzZuS)
+[Ana Luísa] (https://github.com/Analucar)
